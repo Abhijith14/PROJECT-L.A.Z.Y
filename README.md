@@ -11,7 +11,7 @@
 
 <p align="center">
 <a href="https://github.com/Abhijith14/Cowin-Scrape/" target="_blank">
-    <img src="https://img.shields.io/badge/version-v1.1.5-blue?style=for-the-badge&logo=none" alt="project_lazy version" />
+    <img src="https://img.shields.io/badge/version-v1.1.2-blue?style=for-the-badge&logo=none" alt="project_lazy version" />
 </a>&nbsp;
 <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/PYTHON-3.6+-00ADD8?style=for-the-badge&logo=python" alt="python version" />
