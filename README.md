@@ -30,6 +30,32 @@ First of all, download and install [Python](https://www.python.org/downloads/) a
 
 Package installation can be done by using the [`pip install`](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/) command:
 
+```bash
+pip install -r requirements.txt
+```
+<br>
+
+**Note** : It is recommended to create a virtual environment and install your packages inside the virtual environment
+
+```bash
+# Installing virtualenv
+pip install virtualenv
+
+# Creating virtual environment folder:
+virtualenv venv
+
+
+# Activating environment
+
+# Windows
+venv\Scripts\activate
+
+# Finally installing packages inside environment
+pip install -r requirements.txt
+```
+
+<br>
+
 ## Compatible with :
 
 - [x] Zoom
