@@ -19,10 +19,16 @@
 <a href="https://github.com/Abhijith14/Cowin-Scrape/" target="_blank">
     <img src="https://img.shields.io/badge/Project Type-Automation-success?style=for-the-badge&logo=none" alt="accuracy" />
 </a>&nbsp;
-<img src="https://img.shields.io/badge/license-GNU General Public License v3.0-red?style=for-the-badge&logo=none" alt="license" />
+<img src="https://img.shields.io/badge/license-GNU v3.0-red?style=for-the-badge&logo=none" alt="license" />
 </p>
 
 <br>
+
+## ⚡️ Quick start
+
+First of all, download and install [Python](https://www.python.org/downloads/) and your favourite IDE (I used [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)) and install the packages given in the **[requirements.txt](requirements.txt)** file. Python Version `3.6` or higher is required.
+
+Package installation can be done by using the [`pip install`](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/) command:
 
 ## Compatible with :
 
