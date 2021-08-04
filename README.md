@@ -56,8 +56,56 @@ pip install -r requirements.txt
 
 <br>
 
-## 🚚 Compatible with
+### 💻 Run Project L.A.Z.Y
+
+Create your timetable as a *.xlsx* spreadsheet inside [timetable](TimeTable/) folder. After creating your timetable; run [start-class.py](start-class.py)
+
+```bash
+python start-class.py
+```
+
+> 🔔 Please note: This project uses several `windows OS` packages. Therefore this project works only in windows computers. In Future, other OS compatibility will be added.
+
+<br>
+
+## 🔧 Compatible with
 
 - [x] Zoom
 - [x] Google Classroom and Google Meet
 - [ ] Microsoft Teams
+
+<br>
+
+## ⭐️ Project assistance
+
+If you want to say **thank you** or/and support active development of `PROJECT-L.A.Z.Y`:
+
+- Add a [GitHub Star](https://github.com/Abhijith14/Cowin-Scrape) to the project.
+- Write interesting articles about project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or personal blog.
+
+Together, we can make this project **better** every day! 😘
+
+<br>
+
+### 🛠️ Built With
+
+* [Python 3.8](https://www.python.org/) - Creating Project
+
+
+### ❤️ Authors
+
+* **Abhijith Udayakumar** - *Design & Development* - [Abhijith14](https://github.com/Abhijith14)
+
+<br>
+<br>
+
+## 🚨 Forking this repo (please read!)
+
+_**yes, with attribution**_.
+
+I value keeping my work open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my work without giving me credit. I spent a non-trivial amount of effort building and designing this project, and I am proud of it! All I ask of you all is to not claim this effort as your own.
+
+
+### TL;DR
+
+Yes, you can fork this repo. Please give me proper credit by linking back to [Abhijith14/PROJECT-L.A.Z.Y](https://github.com/Abhijith14/PROJECT-L.A.Z.Y). Thanks!
