@@ -10,14 +10,14 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Abhijith14/Cowin-Scrape/" target="_blank">
+<a href="https://github.com/Abhijith14/PROJECT-L.A.Z.Y/" target="_blank">
     <img src="https://img.shields.io/badge/version-v1.1.2-blue?style=for-the-badge&logo=none" alt="project_lazy version" />
 </a>&nbsp;
 <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/PYTHON-3.6+-00ADD8?style=for-the-badge&logo=python" alt="python version" />
 </a>&nbsp;
-<a href="https://github.com/Abhijith14/Cowin-Scrape/" target="_blank">
-    <img src="https://img.shields.io/badge/Project Type-Automation-success?style=for-the-badge&logo=none" alt="accuracy" />
+<a href="https://github.com/Abhijith14/PROJECT-L.A.Z.Y" target="_blank">
+    <img src="https://img.shields.io/badge/Project Type-Automation-success?style=for-the-badge&logo=none" alt="project type" />
 </a>&nbsp;
 <img src="https://img.shields.io/badge/license-GNU v3.0-red?style=for-the-badge&logo=none" alt="license" />
 </p>
