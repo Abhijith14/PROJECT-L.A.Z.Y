@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 <br>
 
-## Compatible with :
+## 🚚 Compatible with
 
 - [x] Zoom
 - [x] Google Classroom and Google Meet
