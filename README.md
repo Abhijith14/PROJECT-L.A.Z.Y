@@ -80,7 +80,7 @@ python start-class.py
 
 If you want to say **thank you** or/and support active development of `PROJECT-L.A.Z.Y`:
 
-- Add a [GitHub Star](https://github.com/Abhijith14/Cowin-Scrape) to the project.
+- Add a [GitHub Star](https://github.com/Abhijith14/PROJECT-L.A.Z.Y) to the project.
 - Write interesting articles about project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or personal blog.
 
 Together, we can make this project **better** every day! 😘
